@@ -1,0 +1,20 @@
+HƯỚNG DẪN CÀI ĐẶT PYTHON VÀ THƯ VIỆN
+
+1. Tải và cài đặt Python:
+- Truy cập trang chủ: https://www.python.org/downloads/
+- Tải phiên bản Python mới nhất cho hệ điều hành Windows.
+- CHÚ Ý QUAN TRỌNG: Khi mở file cài đặt, bạn BẮT BUỘC phải tích vào ô "Add python.exe to PATH" ở dưới cùng của màn hình cài đặt đầu tiên.
+- Sau đó nhấn "Install Now" và đợi quá trình cài đặt hoàn tất.
+
+2. Kiểm tra cài đặt:
+- Mở Command Prompt (Cmd), gõ lệnh sau để kiểm tra:
+  python --version
+  pip --version
+- Nếu màn hình hiện ra phiên bản, bạn đã cài đặt thành công.
+
+3. Cài đặt thư viện Python (Cài trực tiếp lên Global):
+- Mở thư mục backend/ml_service
+- Nhấp thanh địa chỉ ở thư mục đó, gõ "cmd" và nhấn Enter để mở Command Prompt.
+- Gõ lệnh sau để tự động tải và cài đặt toàn bộ thư viện cần thiết:
+  pip install -r requirements.txt
+- Chờ hệ thống tự động tải và cài đặt xong (Lưu ý: Không dùng môi trường ảo venv để hạn chế tối đa các lỗi phát sinh trong quá trình chạy).

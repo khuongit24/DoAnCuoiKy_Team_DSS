@@ -1,0 +1,21 @@
+HƯỚNG DẪN CÀI ĐẶT POSTGRESQL VÀ THIẾT LẬP DATABASE
+
+1. Tải và cài đặt PostgreSQL:
+- Truy cập trang chủ: https://www.postgresql.org/download/windows/
+- Tải phiên bản Installer (khuyên dùng bản 15 hoặc 16).
+- Chạy file cài đặt, nhấn Next liên tục để giữ các tuỳ chọn mặc định.
+- Tại bước đặt mật khẩu cho tài khoản "postgres", hãy đặt một mật khẩu dễ nhớ và ghi nhớ lại.
+- Cổng (Port) mặc định là 5432, giữ nguyên và nhấn Next cho đến khi hoàn tất cài đặt.
+
+2. Thiết lập Database cho dự án:
+- Mở phần mềm pgAdmin 4 (đã được cài kèm PostgreSQL).
+- Đăng nhập bằng mật khẩu bạn vừa tạo.
+- Ở cột bên trái, mở rộng Servers -> PostgreSQL -> Databases.
+- Click chuột phải vào Databases, chọn Create -> Database.
+- Đặt tên database là "dss_db" và nhấn Save.
+
+3. Nạp dữ liệu mẫu (Database Seed):
+- Trong thư mục dự án "backend/node_api/sql" có 2 file là schema.sql và seed.sql
+- Tại pgAdmin 4, click chuột phải vào database "dss_db" vừa tạo, chọn "Query Tool".
+- Mở file schema.sql bằng Notepad, copy toàn bộ nội dung dán vào Query Tool, bấm F5 (hoặc nút Play có hình tam giác) để chạy.
+- Tiếp tục mở file seed.sql bằng Notepad, copy và dán vào Query Tool, bấm F5 để chạy nạp dữ liệu.

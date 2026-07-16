@@ -1,0 +1,22 @@
+HƯỚNG DẪN CÀI ĐẶT NODE.JS VÀ THƯ VIỆN
+
+1. Tải và cài đặt Node.js:
+- Truy cập trang chủ: https://nodejs.org/
+- Tải phiên bản LTS (Long Term Support) mới nhất.
+- Chạy file cài đặt, nhấn Next liên tục cho đến khi hoàn tất (không cần thay đổi bất kỳ tuỳ chọn mặc định nào).
+
+2. Kiểm tra cài đặt:
+- Mở Command Prompt (Cmd), gõ các lệnh sau để kiểm tra:
+  node -v
+  npm -v
+- Nếu màn hình hiện ra số phiên bản, bạn đã cài đặt thành công.
+
+3. Cài đặt thư viện NPM cho dự án:
+- Đối với Backend (Node API): 
+  + Mở thư mục backend/node_api
+  + Nhấp thanh địa chỉ ở thư mục đó, gõ "cmd" và nhấn Enter để mở Command Prompt.
+  + Gõ lệnh: npm install
+- Đối với Frontend (React App):
+  + Mở thư mục frontend/react_app
+  + Mở Cmd tại đây (bằng cách gõ cmd lên thanh địa chỉ).
+  + Gõ lệnh: npm install

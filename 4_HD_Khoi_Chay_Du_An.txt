@@ -1,0 +1,24 @@
+HƯỚNG DẪN KHỞI CHẠY DỰ ÁN
+
+Lưu ý: Chỉ tiến hành khởi chạy dự án sau khi bạn đã hoàn thành việc cài đặt PostgreSQL (kèm nạp dữ liệu), Node.js, Python và toàn bộ các thư viện liên quan.
+Hệ thống yêu cầu bạn chạy đồng thời 3 dịch vụ trên 3 cửa sổ Cmd (Command Prompt) riêng biệt. KHÔNG ĐÓNG các cửa sổ này trong suốt quá trình sử dụng hệ thống.
+
+Bước 1: Chạy Backend (Node API)
+- Mở thư mục backend/node_api
+- Mở Cmd tại thư mục này và gõ: 
+  npm run dev
+- API sẽ chạy ở địa chỉ: http://localhost:3000
+
+Bước 2: Chạy Frontend (Giao diện React)
+- Mở thư mục frontend/react_app
+- Mở Cmd tại thư mục này và gõ: 
+  npm run dev
+- Giao diện web sẽ chạy ở địa chỉ: http://localhost:5173
+
+Bước 3: Chạy ML Service (Dịch vụ AI Python) - Không bắt buộc
+- Mở thư mục backend/ml_service
+- Mở Cmd tại thư mục này và gõ: 
+  uvicorn api.server:app --reload --port 8000
+- Dịch vụ AI sẽ chạy ở địa chỉ: http://localhost:8000
+
+Sau khi cả 3 cửa sổ báo chạy thành công, bạn có thể truy cập vào trình duyệt ở địa chỉ http://localhost:5173 để bắt đầu trải nghiệm dự án.
