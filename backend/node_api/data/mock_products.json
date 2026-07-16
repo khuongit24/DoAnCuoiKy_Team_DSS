@@ -1,0 +1,402 @@
+[
+  {
+    "product_name": "Intel Core i9-14900K",
+    "category": "CPU",
+    "brand": "Intel",
+    "lifecycle_stage": "growth",
+    "base_price": 14500000,
+    "supplier_name": "Mega Electronics"
+  },
+  {
+    "product_name": "Intel Core i7-14700K",
+    "category": "CPU",
+    "brand": "Intel",
+    "lifecycle_stage": "growth",
+    "base_price": 10500000,
+    "supplier_name": "Tech Supplier A"
+  },
+  {
+    "product_name": "Intel Core i5-14600K",
+    "category": "CPU",
+    "brand": "Intel",
+    "lifecycle_stage": "growth",
+    "base_price": 7500000,
+    "supplier_name": "Local Distro"
+  },
+  {
+    "product_name": "AMD Ryzen 9 7950X",
+    "category": "CPU",
+    "brand": "AMD",
+    "lifecycle_stage": "maturity",
+    "base_price": 14000000,
+    "supplier_name": "Tech Supplier A"
+  },
+  {
+    "product_name": "AMD Ryzen 7 7800X3D",
+    "category": "CPU",
+    "brand": "AMD",
+    "lifecycle_stage": "growth",
+    "base_price": 11000000,
+    "supplier_name": "Tech Supplier A"
+  },
+  {
+    "product_name": "AMD Ryzen 5 7600X",
+    "category": "CPU",
+    "brand": "AMD",
+    "lifecycle_stage": "maturity",
+    "base_price": 6000000,
+    "supplier_name": "Local Distro"
+  },
+  {
+    "product_name": "NVIDIA GeForce RTX 4090",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "lifecycle_stage": "growth",
+    "base_price": 45000000,
+    "supplier_name": "Unknown"
+  },
+  {
+    "product_name": "NVIDIA GeForce RTX 4080 Super",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "lifecycle_stage": "growth",
+    "base_price": 28000000,
+    "supplier_name": "Mega Electronics"
+  },
+  {
+    "product_name": "NVIDIA GeForce RTX 4070 Ti",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "lifecycle_stage": "growth",
+    "base_price": 21000000,
+    "supplier_name": "Local Distro"
+  },
+  {
+    "product_name": "NVIDIA GeForce RTX 4060",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "lifecycle_stage": "maturity",
+    "base_price": 8500000,
+    "supplier_name": "Unknown"
+  },
+  {
+    "product_name": "AMD Radeon RX 7900 XTX",
+    "category": "GPU",
+    "brand": "AMD",
+    "lifecycle_stage": "growth",
+    "base_price": 25000000,
+    "supplier_name": "Unknown"
+  },
+  {
+    "product_name": "AMD Radeon RX 7800 XT",
+    "category": "GPU",
+    "brand": "AMD",
+    "lifecycle_stage": "growth",
+    "base_price": 14000000,
+    "supplier_name": "Mega Electronics"
+  },
+  {
+    "product_name": "Corsair Vengeance 32GB (2x16GB) DDR5 6000MHz",
+    "category": "RAM",
+    "brand": "Corsair",
+    "lifecycle_stage": "maturity",
+    "base_price": 2800000,
+    "supplier_name": "Unknown"
+  },
+  {
+    "product_name": "G.Skill Trident Z5 RGB 64GB (2x32GB) DDR5",
+    "category": "RAM",
+    "brand": "G.Skill",
+    "lifecycle_stage": "growth",
+    "base_price": 6500000,
+    "supplier_name": "Tech Supplier A"
+  },
+  {
+    "product_name": "Kingston FURY Beast 16GB DDR5",
+    "category": "RAM",
+    "brand": "Kingston",
+    "lifecycle_stage": "maturity",
+    "base_price": 1300000,
+    "supplier_name": "Unknown"
+  },
+  {
+    "product_name": "Samsung 990 PRO 2TB PCIe 4.0 NVMe",
+    "category": "Storage",
+    "brand": "Samsung",
+    "lifecycle_stage": "growth",
+    "base_price": 4500000,
+    "supplier_name": "Mega Electronics"
+  },
+  {
+    "product_name": "WD Black SN850X 1TB NVMe",
+    "category": "Storage",
+    "brand": "Western Digital",
+    "lifecycle_stage": "maturity",
+    "base_price": 2400000,
+    "supplier_name": "Unknown"
+  },
+  {
+    "product_name": "Crucial P3 Plus 4TB NVMe",
+    "category": "Storage",
+    "brand": "Crucial",
+    "lifecycle_stage": "growth",
+    "base_price": 6000000,
+    "supplier_name": "Global Parts Co."
+  },
+  {
+    "product_name": "ASUS ROG Maximus Z790 Hero",
+    "category": "Motherboard",
+    "brand": "ASUS",
+    "lifecycle_stage": "maturity",
+    "base_price": 15000000,
+    "supplier_name": "Mega Electronics"
+  },
+  {
+    "product_name": "MSI MAG B650 TOMAHAWK WIFI",
+    "category": "Motherboard",
+    "brand": "MSI",
+    "lifecycle_stage": "growth",
+    "base_price": 5500000,
+    "supplier_name": "Unknown"
+  },
+  {
+    "product_name": "GIGABYTE X670E AORUS MASTER",
+    "category": "Motherboard",
+    "brand": "GIGABYTE",
+    "lifecycle_stage": "maturity",
+    "base_price": 12500000,
+    "supplier_name": "Local Distro"
+  },
+  {
+    "product_name": "Corsair RM850x 850W 80 Plus Gold",
+    "category": "PSU",
+    "brand": "Corsair",
+    "lifecycle_stage": "maturity",
+    "base_price": 3200000,
+    "supplier_name": "Unknown"
+  },
+  {
+    "product_name": "Seasonic Focus GX-1000 1000W",
+    "category": "PSU",
+    "brand": "Seasonic",
+    "lifecycle_stage": "growth",
+    "base_price": 4500000,
+    "supplier_name": "Unknown"
+  },
+  {
+    "product_name": "NZXT Kraken Elite 360 RGB",
+    "category": "Cooling",
+    "brand": "NZXT",
+    "lifecycle_stage": "growth",
+    "base_price": 7500000,
+    "supplier_name": "Global Parts Co."
+  },
+  {
+    "product_name": "Noctua NH-D15 chromax.black",
+    "category": "Cooling",
+    "brand": "Noctua",
+    "lifecycle_stage": "maturity",
+    "base_price": 2800000,
+    "supplier_name": "Local Distro"
+  },
+  {
+    "product_name": "Lian Li O11 Dynamic EVO",
+    "category": "Case",
+    "brand": "Lian Li",
+    "lifecycle_stage": "growth",
+    "base_price": 3900000,
+    "supplier_name": "Tech Supplier A"
+  },
+  {
+    "product_name": "Fractal Design North",
+    "category": "Case",
+    "brand": "Fractal Design",
+    "lifecycle_stage": "growth",
+    "base_price": 3500000,
+    "supplier_name": "Tech Supplier A"
+  },
+  {
+    "product_name": "Logitech G Pro X Superlight",
+    "category": "Peripherals",
+    "brand": "Logitech",
+    "lifecycle_stage": "maturity",
+    "base_price": 3000000,
+    "supplier_name": "Global Parts Co."
+  },
+  {
+    "product_name": "Razer DeathAdder V3 Pro",
+    "category": "Peripherals",
+    "brand": "Razer",
+    "lifecycle_stage": "growth",
+    "base_price": 3500000,
+    "supplier_name": "Global Parts Co."
+  },
+  {
+    "product_name": "Keychron Q1 Pro",
+    "category": "Peripherals",
+    "brand": "Keychron",
+    "lifecycle_stage": "growth",
+    "base_price": 4500000,
+    "supplier_name": "Unknown"
+  },
+  {
+    "product_name": "Wooting 60HE",
+    "category": "Peripherals",
+    "brand": "Wooting",
+    "lifecycle_stage": "growth",
+    "base_price": 5500000,
+    "supplier_name": "Unknown"
+  },
+  {
+    "product_name": "Dell UltraSharp U2723QE",
+    "category": "Monitor",
+    "brand": "Dell",
+    "lifecycle_stage": "maturity",
+    "base_price": 12000000,
+    "supplier_name": "Local Distro"
+  },
+  {
+    "product_name": "LG 27GR95QE-B OLED 240Hz",
+    "category": "Monitor",
+    "brand": "LG",
+    "lifecycle_stage": "growth",
+    "base_price": 20000000,
+    "supplier_name": "Global Parts Co."
+  },
+  {
+    "product_name": "ASUS ROG Swift PG27AQDM",
+    "category": "Monitor",
+    "brand": "ASUS",
+    "lifecycle_stage": "growth",
+    "base_price": 22000000,
+    "supplier_name": "Unknown"
+  },
+  {
+    "product_name": "Sony WH-1000XM5",
+    "category": "Audio",
+    "brand": "Sony",
+    "lifecycle_stage": "maturity",
+    "base_price": 7500000,
+    "supplier_name": "Local Distro"
+  },
+  {
+    "product_name": "Apple AirPods Max",
+    "category": "Audio",
+    "brand": "Apple",
+    "lifecycle_stage": "maturity",
+    "base_price": 11000000,
+    "supplier_name": "Mega Electronics"
+  },
+  {
+    "product_name": "SteelSeries Arctis Nova Pro Wireless",
+    "category": "Audio",
+    "brand": "SteelSeries",
+    "lifecycle_stage": "growth",
+    "base_price": 8500000,
+    "supplier_name": "Global Parts Co."
+  },
+  {
+    "product_name": "Apple MacBook Pro 16 M3 Max",
+    "category": "Laptop",
+    "brand": "Apple",
+    "lifecycle_stage": "growth",
+    "base_price": 85000000,
+    "supplier_name": "Tech Supplier A"
+  },
+  {
+    "product_name": "ASUS ROG Zephyrus G14 (2024)",
+    "category": "Laptop",
+    "brand": "ASUS",
+    "lifecycle_stage": "growth",
+    "base_price": 45000000,
+    "supplier_name": "Local Distro"
+  },
+  {
+    "product_name": "Lenovo Legion Pro 7i",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "lifecycle_stage": "growth",
+    "base_price": 55000000,
+    "supplier_name": "Mega Electronics"
+  },
+  {
+    "product_name": "Dell XPS 15",
+    "category": "Laptop",
+    "brand": "Dell",
+    "lifecycle_stage": "maturity",
+    "base_price": 40000000,
+    "supplier_name": "Local Distro"
+  },
+  {
+    "product_name": "Intel Core i3-14100",
+    "category": "CPU",
+    "brand": "Intel",
+    "lifecycle_stage": "decline",
+    "base_price": 3500000,
+    "supplier_name": "Mega Electronics"
+  },
+  {
+    "product_name": "NVIDIA GeForce GTX 1650",
+    "category": "GPU",
+    "brand": "NVIDIA",
+    "lifecycle_stage": "decline",
+    "base_price": 3000000,
+    "supplier_name": "Local Distro"
+  },
+  {
+    "product_name": "Crucial 8GB DDR4 3200MHz",
+    "category": "RAM",
+    "brand": "Crucial",
+    "lifecycle_stage": "decline",
+    "base_price": 500000,
+    "supplier_name": "Tech Supplier A"
+  },
+  {
+    "product_name": "Kingston A400 240GB SATA SSD",
+    "category": "Storage",
+    "brand": "Kingston",
+    "lifecycle_stage": "decline",
+    "base_price": 450000,
+    "supplier_name": "Mega Electronics"
+  },
+  {
+    "product_name": "Gigabyte B450M DS3H",
+    "category": "Motherboard",
+    "brand": "Gigabyte",
+    "lifecycle_stage": "decline",
+    "base_price": 1200000,
+    "supplier_name": "Tech Supplier A"
+  },
+  {
+    "product_name": "Aerocool VX Plus 500W",
+    "category": "PSU",
+    "brand": "Aerocool",
+    "lifecycle_stage": "decline",
+    "base_price": 600000,
+    "supplier_name": "Mega Electronics"
+  },
+  {
+    "product_name": "Logitech G102",
+    "category": "Peripherals",
+    "brand": "Logitech",
+    "lifecycle_stage": "maturity",
+    "base_price": 400000,
+    "supplier_name": "Local Distro"
+  },
+  {
+    "product_name": "Acer Nitro 5 (2023)",
+    "category": "Laptop",
+    "brand": "Acer",
+    "lifecycle_stage": "maturity",
+    "base_price": 18000000,
+    "supplier_name": "Tech Supplier A"
+  },
+  {
+    "product_name": "HP Victus 15",
+    "category": "Laptop",
+    "brand": "HP",
+    "lifecycle_stage": "maturity",
+    "base_price": 17000000,
+    "supplier_name": "Unknown"
+  }
+]

@@ -1,0 +1,1084 @@
+{"level":"info","message":"✅ PostgreSQL connected: Thu Jul 16 2026 08:25:44 GMT+0700 (Indochina Time)","service":"dss-api","timestamp":"2026-07-16 08:25:44"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:26:21"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:26:22"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:26:24"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:26:24"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:26:24"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:26:25"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:26:27"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:26:27"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:26:27"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:26:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:26:30"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:26:30"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:26:30"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:26:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:26:33"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:26:33"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:34:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:34:05"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:34:07"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:34:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:34:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:34:08"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:34:10"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:34:10"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:34:24"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:34:25"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:34:27"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:34:27"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:34:27"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:34:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:34:30"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:34:30"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:02"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:02"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:04"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:35:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:04"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:35:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:05"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:05"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:07"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:35:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:07"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:35:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:47"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:48"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:50"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:35:50"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:50"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:51"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:35:53"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:35:53"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:36:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:36:29"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:36:31"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:36:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:36:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:36:32"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:36:34"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:36:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:36:45"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:36:46"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:36:48"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:36:48"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:36:48"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:36:49"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:36:51"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:36:51"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:22"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:22"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:23"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:23"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:25"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:38:25"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:25"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:38:25"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:25"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:25"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:26"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:26"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:28"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:38:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:28"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:38:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:51"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:52"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:54"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:38:54"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:54"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:55"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:38:57"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:38:57"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:40:52"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:40:52"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:40:53"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:40:53"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:40:55"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:40:55"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:40:55"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:40:55"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:40:55"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:40:55"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:40:56"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:40:56"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:40:58"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:40:58"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:40:58"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:40:58"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:03"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:06"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:42:06"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:06"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:09"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:42:09"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:09"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:10"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:11"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:12"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:12"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:42:12"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:12"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:13"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:14"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:42:14"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:14"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:15"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:15"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:42:15"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:15"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:16"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:17"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:42:17"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:18"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:42:18"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:18"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:19"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:21"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:21"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:42:21"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:22"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:22"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:23"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:24"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:42:24"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:25"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:42:25"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:29"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:29"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:31"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:42:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:31"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:42:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:32"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:32"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:34"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:42:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:34"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:42:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:35"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:37"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:42:37"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:37"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:38"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:42:40"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:42:40"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:18"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:19"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:21"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:49:21"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:21"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:22"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:24"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:49:24"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:45"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:45"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:46"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:46"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:48"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:49:48"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:48"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:49:48"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:48"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:48"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:49"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:49"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:51"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:49:51"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:49:51"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:49:51"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:24"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:25"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:27"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:50:27"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:27"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:30"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:50:30"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:43"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:43"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:44"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:44"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:46"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:50:46"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:46"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:50:46"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:46"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:46"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:47"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:47"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:49"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:50:49"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:50:49"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:50:49"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:52:53"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:52:54"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:52:56"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:52:56"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 08:52:56"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 08:52:57"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 08:52:59"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 08:52:59"}
+{"level":"info","message":"✅ PostgreSQL connected: Thu Jul 16 2026 08:59:41 GMT+0700 (Indochina Time)","service":"dss-api","timestamp":"2026-07-16 08:59:41"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:02:38"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:02:39"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:02:41"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:02:41"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:02:41"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:02:42"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:02:44"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:02:44"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:02:58"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:02:59"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:02:59"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:03:00"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:03:01"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:03:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:03:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:03:02"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:03:02"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:03:02"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:03:02"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:03:03"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:03:04"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:03:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:03:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:03:05"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:03:05"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:03:05"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:03:07"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:03:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:03:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:03:08"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:03:10"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:03:10"}
+{"level":"info","message":"✅ PostgreSQL connected: Thu Jul 16 2026 09:16:26 GMT+0700 (Indochina Time)","service":"dss-api","timestamp":"2026-07-16 09:16:26"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:17:03"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:17:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:17:06"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:17:06"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:17:06"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:17:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:17:09"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:17:09"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:19:14"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:19:14"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:19:15"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:19:15"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:19:17"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:19:17"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:19:17"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:19:17"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:19:17"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:19:17"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:19:18"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:19:18"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:19:20"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:19:20"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:19:20"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:19:20"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:19:20"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:19:21"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:19:23"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:19:23"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT * FROM products \n            WHERE export = $1 \n            ORDER BY created_at ","timestamp":"2026-07-16 09:19:49"}
+{"error_code":"42703","level":"error","message":"column \"export\" does not exist","request":{"ip":"::1","method":"GET","url":"/api/products?export=csv&search="},"service":"dss-api","stack":"error: column \"export\" does not exist\n    at D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async query (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\config\\database.js:30:24)\n    at async Promise.all (index 0)\n    at async ProductModel.findAll (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\models\\base.model.js:51:43)\n    at async D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\controllers\\data.controller.js:37:20","timestamp":"2026-07-16 09:19:49"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"SELECT COUNT(*) FROM products WHERE export = $1","timestamp":"2026-07-16 09:19:49"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT * FROM products \n            WHERE export = $1 \n            ORDER BY created_at ","timestamp":"2026-07-16 09:19:53"}
+{"error_code":"42703","level":"error","message":"column \"export\" does not exist","request":{"ip":"::1","method":"GET","url":"/api/products?export=csv&search="},"service":"dss-api","stack":"error: column \"export\" does not exist\n    at D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async query (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\config\\database.js:30:24)\n    at async Promise.all (index 0)\n    at async ProductModel.findAll (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\models\\base.model.js:51:43)\n    at async D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\controllers\\data.controller.js:37:20","timestamp":"2026-07-16 09:19:53"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"SELECT COUNT(*) FROM products WHERE export = $1","timestamp":"2026-07-16 09:19:53"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT * FROM products \n            WHERE export = $1 \n            ORDER BY created_at ","timestamp":"2026-07-16 09:20:02"}
+{"error_code":"42703","level":"error","message":"column \"export\" does not exist","request":{"ip":"::1","method":"GET","url":"/api/products?export=csv&search="},"service":"dss-api","stack":"error: column \"export\" does not exist\n    at D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async query (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\config\\database.js:30:24)\n    at async Promise.all (index 0)\n    at async ProductModel.findAll (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\models\\base.model.js:51:43)\n    at async D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\controllers\\data.controller.js:37:20","timestamp":"2026-07-16 09:20:02"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"SELECT COUNT(*) FROM products WHERE export = $1","timestamp":"2026-07-16 09:20:02"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT * FROM products \n            WHERE export = $1 \n            ORDER BY created_at ","timestamp":"2026-07-16 09:20:07"}
+{"error_code":"42703","level":"error","message":"column \"export\" does not exist","request":{"ip":"::1","method":"GET","url":"/api/products?export=csv&search="},"service":"dss-api","stack":"error: column \"export\" does not exist\n    at D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async query (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\config\\database.js:30:24)\n    at async Promise.all (index 0)\n    at async ProductModel.findAll (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\models\\base.model.js:51:43)\n    at async D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\controllers\\data.controller.js:37:20","timestamp":"2026-07-16 09:20:07"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"SELECT COUNT(*) FROM products WHERE export = $1","timestamp":"2026-07-16 09:20:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:20"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:20"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:21"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:21"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:23"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:20:23"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:23"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:20:23"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:23"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:23"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:24"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:24"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:26"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:20:26"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:26"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:20:26"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:33"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:35"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:36"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:20:36"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:36"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:36"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:37"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:38"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:20:38"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:38"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:39"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:20:39"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:39"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:40"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:40"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:42"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:20:42"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:42"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:20:42"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:42"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:43"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:43"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:44"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:45"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:20:45"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:45"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:46"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:20:46"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:46"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:46"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:47"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:48"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:20:48"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:48"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:49"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:20:49"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:49"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:20:51"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:20:51"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT * FROM products \n            WHERE export = $1 \n            ORDER BY created_at ","timestamp":"2026-07-16 09:21:01"}
+{"error_code":"42703","level":"error","message":"column \"export\" does not exist","request":{"ip":"::1","method":"GET","url":"/api/products?export=csv&search="},"service":"dss-api","stack":"error: column \"export\" does not exist\n    at D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async query (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\config\\database.js:30:24)\n    at async Promise.all (index 0)\n    at async ProductModel.findAll (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\models\\base.model.js:51:43)\n    at async D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\controllers\\data.controller.js:37:20","timestamp":"2026-07-16 09:21:01"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"SELECT COUNT(*) FROM products WHERE export = $1","timestamp":"2026-07-16 09:21:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:21:56"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:21:57"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:21:59"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:21:59"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:21:59"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:22:00"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:22:02"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:22:02"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:22:02"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:22:03"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:22:05"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:22:05"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:22:05"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:22:06"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:22:08"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:22:08"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:46:56"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:46:56"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:46:57"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:46:57"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:46:59"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:46:59"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:46:59"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:46:59"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:46:59"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:46:59"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:47:00"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:47:00"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:47:02"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:47:02"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:47:02"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:47:02"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:29"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:29"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:31"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:48:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:31"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:48:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:32"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:32"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:34"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:48:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:34"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:48:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:35"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:37"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:48:37"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:37"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:38"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:48:40"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:48:40"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:54:33"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:54:33"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:54:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:54:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:54:36"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:54:36"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:54:36"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:54:36"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:54:36"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 09:54:36"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:54:37"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 09:54:37"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:54:39"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:54:39"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 09:54:39"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 09:54:39"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:47"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:48"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:50"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:05:50"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:50"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:51"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:51"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:52"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:53"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:05:53"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:53"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:54"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:05:54"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:54"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:54"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:55"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:56"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:05:56"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:56"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:57"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:05:57"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:57"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:58"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:59"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:59"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:05:59"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:05:59"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:00"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:01"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:02"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:02"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:02"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:02"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:02"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:04"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:04"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:04"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:05"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:05"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:07"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:07"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:08"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:08"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:10"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:10"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:10"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:10"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:10"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:10"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:11"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:11"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:11"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:12"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:13"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:13"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:13"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:13"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:13"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:14"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:14"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:14"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:14"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:15"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:16"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:16"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:17"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:17"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:32"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:32"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:34"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:34"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:35"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:35"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:37"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:37"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:06:37"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:06:37"}
+{"error":"column s.export does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT COUNT(*) \n            FROM sales s \n            JOIN products p ON s.product_id ","timestamp":"2026-07-16 10:08:25"}
+{"error_code":"42703","level":"error","message":"column s.export does not exist","request":{"ip":"::1","method":"GET","url":"/api/sales?export=json"},"service":"dss-api","stack":"error: column s.export does not exist\n    at D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async query (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\config\\database.js:30:24)\n    at async Promise.all (index 1)\n    at async SalesModel.findAll (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\models\\data.models.js:72:43)\n    at async D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\controllers\\data.controller.js:37:20","timestamp":"2026-07-16 10:08:25"}
+{"error":"column s.export does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT s.*, p.product_name \n            FROM sales s \n            JOIN products p ON s.","timestamp":"2026-07-16 10:08:25"}
+{"error":"column s.export does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT s.*, p.product_name \n            FROM sales s \n            JOIN products p ON s.","timestamp":"2026-07-16 10:08:29"}
+{"error_code":"42703","level":"error","message":"column s.export does not exist","request":{"ip":"::1","method":"GET","url":"/api/sales?export=json"},"service":"dss-api","stack":"error: column s.export does not exist\n    at D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async query (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\config\\database.js:30:24)\n    at async Promise.all (index 0)\n    at async SalesModel.findAll (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\models\\data.models.js:72:43)\n    at async D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\controllers\\data.controller.js:37:20","timestamp":"2026-07-16 10:08:29"}
+{"error":"column s.export does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT COUNT(*) \n            FROM sales s \n            JOIN products p ON s.product_id ","timestamp":"2026-07-16 10:08:29"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:13:52"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:13:53"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:13:55"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:13:55"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:13:55"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:13:55"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:13:56"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:13:56"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:13:58"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:13:58"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:13:58"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:13:58"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:13:58"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:13:58"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:13:59"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:13:59"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:01"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:01"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:02"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:02"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:04"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:04"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:05"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:05"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:07"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:07"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:08"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:08"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:08"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:10"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:10"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:10"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:10"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:10"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:10"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:10"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:10"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:11"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:11"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:12"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:12"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:13"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:13"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:13"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:13"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:13"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:13"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:15"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:15"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:15"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:15"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:15"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:15"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:16"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:16"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:18"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:18"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:18"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:18"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:18"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:18"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:19"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:19"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:21"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:21"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:21"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:21"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:21"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:21"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:22"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:22"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:23"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:23"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:24"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:24"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:24"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:24"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:24"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:24"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:25"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:25"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:26"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:26"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:26"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:26"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:26"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:26"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:29"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:29"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:29"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:29"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:54"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:54"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:55"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:55"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:57"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:57"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:57"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:14:57"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:57"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:57"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:58"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:14:58"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:15:00"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:15:00"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:15:00"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:15:00"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:17"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:17"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:18"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:18"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:20"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:16:20"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:20"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:16:20"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:20"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:20"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:21"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:21"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:23"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:16:23"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:23"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:16:23"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:25"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:25"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:26"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:26"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:28"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:16:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:28"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:16:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:29"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:29"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:31"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:16:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:31"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:16:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:31"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:32"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:32"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:34"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:16:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:34"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:16:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:34"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:35"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:35"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:36"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:37"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:16:37"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:37"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:16:37"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:37"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:38"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:38"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:39"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:39"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:39"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:39"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:16:39"}
+{"level":"warn","message":"ML Service request failed (Attempt 2/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:40"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:41"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:16:41"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:41"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:16:41"}
+{"level":"warn","message":"ML Service request failed (Attempt 3/3): ","service":"dss-api","timestamp":"2026-07-16 10:16:42"}
+{"level":"error","message":"ML Service error after 3 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:16:42"}
+{"level":"debug","message":"New PostgreSQL connection established","service":"dss-api","timestamp":"2026-07-16 10:21:51"}
+{"duration":"41ms","level":"debug","message":"Query executed","rows":5,"service":"dss-api","text":"SELECT * FROM suppliers LIMIT 5","timestamp":"2026-07-16 10:21:51"}
+{"level":"debug","message":"New PostgreSQL connection established","service":"dss-api","timestamp":"2026-07-16 10:22:01"}
+{"duration":"145ms","level":"debug","message":"Query executed","rows":5,"service":"dss-api","text":"SELECT * FROM suppliers LIMIT 5","timestamp":"2026-07-16 10:22:01"}
+{"level":"debug","message":"New PostgreSQL connection established","service":"dss-api","timestamp":"2026-07-16 10:23:11"}
+{"duration":"67ms","level":"debug","message":"Query executed","rows":null,"service":"dss-api","text":"ALTER TABLE products ADD COLUMN IF NOT EXISTS supplier_name VARCHAR(255) DEFAULT 'Unknown'","timestamp":"2026-07-16 10:23:11"}
+{"duration":"30ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE products SET supplier_name = $1 WHERE product_name = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"3ms","level":"debug","message":"Query executed","rows":100,"service":"dss-api","text":"SELECT supplier_id, supplier_name FROM suppliers","timestamp":"2026-07-16 10:23:11"}
+{"duration":"7ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"2ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"2ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"2ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"1ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"duration":"0ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"UPDATE suppliers SET supplier_name = $1 WHERE supplier_id = $2","timestamp":"2026-07-16 10:23:11"}
+{"level":"info","message":"✅ PostgreSQL connected: Thu Jul 16 2026 10:27:10 GMT+0700 (Indochina Time)","service":"dss-api","timestamp":"2026-07-16 10:27:10"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:27:23"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:27:23"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:27:23"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:27:23"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT * FROM products \n            WHERE export = $1 \n            ORDER BY created_at ","timestamp":"2026-07-16 10:29:59"}
+{"error_code":"42703","level":"error","message":"column \"export\" does not exist","request":{"ip":"::1","method":"GET","url":"/api/products?export=json&search="},"service":"dss-api","stack":"error: column \"export\" does not exist\n    at D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async query (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\config\\database.js:30:24)\n    at async Promise.all (index 0)\n    at async ProductModel.findAll (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\models\\base.model.js:51:43)\n    at async D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\controllers\\data.controller.js:37:20","timestamp":"2026-07-16 10:29:59"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"SELECT COUNT(*) FROM products WHERE export = $1","timestamp":"2026-07-16 10:29:59"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT * FROM products \n            WHERE export = $1 \n            ORDER BY created_at ","timestamp":"2026-07-16 10:30:07"}
+{"error_code":"42703","level":"error","message":"column \"export\" does not exist","request":{"ip":"::1","method":"GET","url":"/api/products?export=json&search="},"service":"dss-api","stack":"error: column \"export\" does not exist\n    at D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async query (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\config\\database.js:30:24)\n    at async Promise.all (index 0)\n    at async ProductModel.findAll (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\models\\base.model.js:51:43)\n    at async D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\controllers\\data.controller.js:37:20","timestamp":"2026-07-16 10:30:07"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"SELECT COUNT(*) FROM products WHERE export = $1","timestamp":"2026-07-16 10:30:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:32:20"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:32:20"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:32:20"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:32:20"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:32:20"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:32:20"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:32:20"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:32:20"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:32:30"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:32:30"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:32:30"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:32:30"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:32:42"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:32:42"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:32:42"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:32:42"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:32:43"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:32:43"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:32:43"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:32:43"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:32:43"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:32:43"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:32:43"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:32:43"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT * FROM products \n            WHERE export = $1 \n            ORDER BY created_at ","timestamp":"2026-07-16 10:34:37"}
+{"error_code":"42703","level":"error","message":"column \"export\" does not exist","request":{"ip":"::1","method":"GET","url":"/api/products?export=json"},"service":"dss-api","stack":"error: column \"export\" does not exist\n    at D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async query (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\config\\database.js:30:24)\n    at async Promise.all (index 0)\n    at async ProductModel.findAll (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\models\\base.model.js:51:43)\n    at async D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\controllers\\data.controller.js:37:20","timestamp":"2026-07-16 10:34:37"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"SELECT COUNT(*) FROM products WHERE export = $1","timestamp":"2026-07-16 10:34:37"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"SELECT COUNT(*) FROM products WHERE export = $1","timestamp":"2026-07-16 10:34:42"}
+{"error_code":"42703","level":"error","message":"column \"export\" does not exist","request":{"ip":"::1","method":"GET","url":"/api/products?export=json"},"service":"dss-api","stack":"error: column \"export\" does not exist\n    at D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async query (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\config\\database.js:30:24)\n    at async Promise.all (index 1)\n    at async ProductModel.findAll (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\models\\base.model.js:51:43)\n    at async D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\controllers\\data.controller.js:37:20","timestamp":"2026-07-16 10:34:42"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT * FROM products \n            WHERE export = $1 \n            ORDER BY created_at ","timestamp":"2026-07-16 10:34:42"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT * FROM products \n            WHERE export = $1 \n            ORDER BY created_at ","timestamp":"2026-07-16 10:35:05"}
+{"error_code":"42703","level":"error","message":"column \"export\" does not exist","request":{"ip":"::1","method":"GET","url":"/api/products?export=json"},"service":"dss-api","stack":"error: column \"export\" does not exist\n    at D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async query (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\config\\database.js:30:24)\n    at async Promise.all (index 0)\n    at async ProductModel.findAll (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\models\\base.model.js:51:43)\n    at async D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\controllers\\data.controller.js:37:20","timestamp":"2026-07-16 10:35:05"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"SELECT COUNT(*) FROM products WHERE export = $1","timestamp":"2026-07-16 10:35:05"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT * FROM products \n            WHERE export = $1 \n            ORDER BY created_at ","timestamp":"2026-07-16 10:35:11"}
+{"error_code":"42703","level":"error","message":"column \"export\" does not exist","request":{"ip":"::1","method":"GET","url":"/api/products?export=json"},"service":"dss-api","stack":"error: column \"export\" does not exist\n    at D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async query (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\config\\database.js:30:24)\n    at async Promise.all (index 0)\n    at async ProductModel.findAll (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\models\\base.model.js:51:43)\n    at async D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\controllers\\data.controller.js:37:20","timestamp":"2026-07-16 10:35:11"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"SELECT COUNT(*) FROM products WHERE export = $1","timestamp":"2026-07-16 10:35:11"}
+{"level":"debug","message":"New PostgreSQL connection established","service":"dss-api","timestamp":"2026-07-16 10:35:18"}
+{"level":"debug","message":"New PostgreSQL connection established","service":"dss-api","timestamp":"2026-07-16 10:35:18"}
+{"duration":"42ms","level":"debug","message":"Query executed","rows":20,"service":"dss-api","text":"\n            SELECT * FROM products \n             \n            ORDER BY created_at desc \n           ","timestamp":"2026-07-16 10:35:18"}
+{"duration":"37ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"SELECT COUNT(*) FROM products ","timestamp":"2026-07-16 10:35:18"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT * FROM products \n            WHERE export = $1 \n            ORDER BY created_at ","timestamp":"2026-07-16 10:35:39"}
+{"error_code":"42703","level":"error","message":"column \"export\" does not exist","request":{"ip":"::1","method":"GET","url":"/api/products?export=json"},"service":"dss-api","stack":"error: column \"export\" does not exist\n    at D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async query (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\config\\database.js:30:24)\n    at async Promise.all (index 0)\n    at async ProductModel.findAll (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\models\\base.model.js:51:43)\n    at async D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\controllers\\data.controller.js:37:20","timestamp":"2026-07-16 10:35:39"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"SELECT COUNT(*) FROM products WHERE export = $1","timestamp":"2026-07-16 10:35:39"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"SELECT COUNT(*) FROM products WHERE export = $1","timestamp":"2026-07-16 10:35:55"}
+{"error_code":"42703","level":"error","message":"column \"export\" does not exist","request":{"ip":"::1","method":"GET","url":"/api/products?export=json"},"service":"dss-api","stack":"error: column \"export\" does not exist\n    at D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async query (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\config\\database.js:30:24)\n    at async Promise.all (index 1)\n    at async ProductModel.findAll (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\models\\base.model.js:51:43)\n    at async D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\controllers\\data.controller.js:37:20","timestamp":"2026-07-16 10:35:55"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT * FROM products \n            WHERE export = $1 \n            ORDER BY created_at ","timestamp":"2026-07-16 10:35:55"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"\n            SELECT * FROM products \n            WHERE export = $1 \n            ORDER BY created_at ","timestamp":"2026-07-16 10:36:25"}
+{"error_code":"42703","level":"error","message":"column \"export\" does not exist","request":{"ip":"::1","method":"GET","url":"/api/products?export=json"},"service":"dss-api","stack":"error: column \"export\" does not exist\n    at D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async query (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\config\\database.js:30:24)\n    at async Promise.all (index 0)\n    at async ProductModel.findAll (D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\models\\base.model.js:51:43)\n    at async D:\\Nhóm 7 - DSS\\Đồ án cuối kỳ\\backend\\node_api\\src\\controllers\\data.controller.js:37:20","timestamp":"2026-07-16 10:36:25"}
+{"error":"column \"export\" does not exist","level":"error","message":"Query failed","service":"dss-api","text":"SELECT COUNT(*) FROM products WHERE export = $1","timestamp":"2026-07-16 10:36:25"}
+{"level":"info","message":"✅ PostgreSQL connected: Thu Jul 16 2026 10:37:10 GMT+0700 (Indochina Time)","service":"dss-api","timestamp":"2026-07-16 10:37:10"}
+{"level":"info","message":"✅ PostgreSQL connected: Thu Jul 16 2026 10:38:48 GMT+0700 (Indochina Time)","service":"dss-api","timestamp":"2026-07-16 10:38:48"}
+{"level":"debug","message":"New PostgreSQL connection established","service":"dss-api","timestamp":"2026-07-16 10:38:58"}
+{"level":"debug","message":"New PostgreSQL connection established","service":"dss-api","timestamp":"2026-07-16 10:38:58"}
+{"duration":"39ms","level":"debug","message":"Query executed","rows":1,"service":"dss-api","text":"\n            SELECT COUNT(*) \n            FROM suppliers s \n            LEFT JOIN products p ON s.pr","timestamp":"2026-07-16 10:38:58"}
+{"duration":"47ms","level":"debug","message":"Query executed","rows":5,"service":"dss-api","text":"\n            SELECT s.*, p.product_name \n            FROM suppliers s \n            LEFT JOIN product","timestamp":"2026-07-16 10:38:58"}
+{"level":"info","message":"✅ PostgreSQL connected: Thu Jul 16 2026 10:40:40 GMT+0700 (Indochina Time)","service":"dss-api","timestamp":"2026-07-16 10:40:40"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:40:53"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:40:53"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:40:53"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:40:53"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:41:01"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:41:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:41:01"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:41:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:41:01"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:41:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:41:01"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:41:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:44:26"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:44:26"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:44:26"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:44:26"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:44:26"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:44:26"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:44:26"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:44:26"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:44:28"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:44:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:44:28"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:44:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:44:28"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:44:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:44:28"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:44:28"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:44:29"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:44:29"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:44:29"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:44:29"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:45:19"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:45:19"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:45:19"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:45:19"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:47:32"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:47:32"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:47:32"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:47:32"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:48:26"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:48:26"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 10:48:26"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 10:48:26"}
+{"level":"info","message":"✅ PostgreSQL connected: Thu Jul 16 2026 10:49:42 GMT+0700 (Indochina Time)","service":"dss-api","timestamp":"2026-07-16 10:49:42"}
+{"level":"info","message":"✅ PostgreSQL connected: Thu Jul 16 2026 10:49:47 GMT+0700 (Indochina Time)","service":"dss-api","timestamp":"2026-07-16 10:49:47"}
+{"level":"info","message":"✅ PostgreSQL connected: Thu Jul 16 2026 11:01:10 GMT+0700 (Indochina Time)","service":"dss-api","timestamp":"2026-07-16 11:01:10"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:02:30"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:02:30"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:02:30"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:02:30"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:02:37"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:02:37"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:02:40"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:02:40"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:02:43"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:02:43"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:02:44"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:02:44"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:02:46"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:02:46"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:02:48"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:02:48"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:03:01"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:03:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:03:01"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:03:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:03:01"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:03:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:03:01"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:03:01"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:04:46"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:04:46"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:04:46"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:04:46"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:04:46"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:04:46"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:04:46"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:04:46"}
+{"level":"info","message":"✅ PostgreSQL connected: Thu Jul 16 2026 11:04:56 GMT+0700 (Indochina Time)","service":"dss-api","timestamp":"2026-07-16 11:04:56"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:04:59"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:04:59"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:04:59"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:04:59"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:05:02"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:05:02"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:05:04"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:05:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:05:05"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:05:05"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:05:08"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:05:08"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:05:10"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:05:10"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:05:13"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:05:13"}
+{"level":"info","message":"✅ PostgreSQL connected: Thu Jul 16 2026 11:06:25 GMT+0700 (Indochina Time)","service":"dss-api","timestamp":"2026-07-16 11:06:25"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): Request failed with status code 403","service":"dss-api","timestamp":"2026-07-16 11:07:17"}
+{"level":"error","message":"ML Service error after 1 attempts: Invalid API key","service":"dss-api","timestamp":"2026-07-16 11:07:17"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): Request failed with status code 403","service":"dss-api","timestamp":"2026-07-16 11:07:17"}
+{"level":"error","message":"ML Service error after 1 attempts: Invalid API key","service":"dss-api","timestamp":"2026-07-16 11:07:17"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): Request failed with status code 403","service":"dss-api","timestamp":"2026-07-16 11:07:20"}
+{"level":"error","message":"ML Service error after 1 attempts: Invalid API key","service":"dss-api","timestamp":"2026-07-16 11:07:20"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): Request failed with status code 403","service":"dss-api","timestamp":"2026-07-16 11:07:27"}
+{"level":"error","message":"ML Service error after 1 attempts: Invalid API key","service":"dss-api","timestamp":"2026-07-16 11:07:27"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): Request failed with status code 404","service":"dss-api","timestamp":"2026-07-16 11:07:27"}
+{"level":"error","message":"ML Service error after 1 attempts: Not Found","service":"dss-api","timestamp":"2026-07-16 11:07:27"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): Request failed with status code 403","service":"dss-api","timestamp":"2026-07-16 11:07:27"}
+{"level":"error","message":"ML Service error after 1 attempts: Invalid API key","service":"dss-api","timestamp":"2026-07-16 11:07:27"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): Request failed with status code 404","service":"dss-api","timestamp":"2026-07-16 11:07:27"}
+{"level":"error","message":"ML Service error after 1 attempts: Not Found","service":"dss-api","timestamp":"2026-07-16 11:07:27"}
+{"level":"info","message":"✅ PostgreSQL connected: Thu Jul 16 2026 11:15:04 GMT+0700 (Indochina Time)","service":"dss-api","timestamp":"2026-07-16 11:15:04"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:15:07"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:15:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:15:07"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:15:07"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:15:08"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:15:08"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:15:08"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:15:08"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:15:08"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:15:08"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:15:08"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:15:08"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:15:15"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:15:15"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:15:15"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:15:15"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:15:15"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:15:15"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:15:15"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:15:15"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:15:20"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:15:20"}
+{"level":"warn","message":"ML Service request failed (Attempt 1/1): ","service":"dss-api","timestamp":"2026-07-16 11:15:20"}
+{"level":"error","message":"ML Service error after 1 attempts: ","service":"dss-api","timestamp":"2026-07-16 11:15:20"}
