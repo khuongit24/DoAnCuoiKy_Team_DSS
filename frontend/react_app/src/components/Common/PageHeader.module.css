@@ -1,0 +1,29 @@
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 24px;
+}
+
+.titleSection {
+  display: flex;
+  flex-direction: column;
+}
+
+.breadcrumb {
+  margin-bottom: 8px;
+}
+
+.title {
+  margin-top: 0 !important;
+  margin-bottom: 4px !important;
+}
+
+.description {
+  font-size: 14px;
+}
+
+.actionSection {
+  display: flex;
+  align-items: center;
+}

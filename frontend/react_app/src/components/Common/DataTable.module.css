@@ -1,0 +1,31 @@
+.tableContainer {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+}
+
+.tableToolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.searchSection {
+  flex: 1;
+}
+
+.actionSection {
+  margin-left: 16px;
+}
+
+.customTable :global(.ant-table-thead > tr > th) {
+  background-color: #f8fafc;
+  color: #475569;
+  font-weight: 600;
+}
+
+.customTable :global(.ant-table-tbody > tr:hover > td) {
+  background-color: #f1f5f9;
+}

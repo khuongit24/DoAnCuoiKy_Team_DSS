@@ -1,0 +1,22 @@
+.rankingCard {
+    margin-bottom: 24px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+}
+
+.controls {
+    display: flex;
+    align-items: center;
+}
+
+.topRankRow {
+    background-color: #f6ffed;
+}
+
+.weightSliders {
+    margin-top: 16px;
+    padding: 16px;
+    background-color: #fafafa;
+    border-radius: 8px;
+    border: 1px solid #f0f0f0;
+}

@@ -1,0 +1,122 @@
+.chatContainer {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 1000;
+  font-family: var(--font-family, 'Inter', sans-serif);
+}
+
+.floatingButton {
+  width: 60px !important;
+  height: 60px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+}
+
+.chatWindow {
+  width: 350px;
+  height: 500px;
+  background-color: var(--color-bg-page, #ffffff);
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid var(--color-border, #e5e7eb);
+}
+
+.chatHeader {
+  background-color: var(--color-primary, #3b82f6);
+  padding: 12px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.headerTitle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 16px;
+}
+
+.chatBody {
+  flex: 1;
+  padding: 16px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  background-color: var(--color-bg-body, #f9fafb);
+}
+
+.messageWrapper {
+  display: flex;
+  align-items: flex-end;
+  gap: 8px;
+  max-width: 100%;
+}
+
+.messageUser {
+  justify-content: flex-end;
+}
+
+.messageAI {
+  justify-content: flex-start;
+}
+
+.avatar {
+  background-color: var(--color-bg-page, #ffffff);
+  padding: 6px;
+  border-radius: 50%;
+  border: 1px solid var(--color-border, #e5e7eb);
+  color: var(--color-text-secondary, #6b7280);
+}
+
+.messageBubble {
+  padding: 10px 14px;
+  border-radius: 12px;
+  max-width: 75%;
+  word-wrap: break-word;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.bubbleUser {
+  background-color: var(--color-primary, #3b82f6);
+  color: white;
+  border-bottom-right-radius: 4px;
+}
+
+.bubbleAI {
+  background-color: var(--color-bg-page, #ffffff);
+  color: var(--color-text, #111827);
+  border: 1px solid var(--color-border, #e5e7eb);
+  border-bottom-left-radius: 4px;
+}
+
+/* Fix markdown spacing in bubble */
+.bubbleAI p {
+  margin-bottom: 0.5em;
+}
+.bubbleAI p:last-child {
+  margin-bottom: 0;
+}
+
+.chatFooter {
+  padding: 12px;
+  display: flex;
+  gap: 8px;
+  border-top: 1px solid var(--color-border, #e5e7eb);
+  background-color: var(--color-bg-page, #ffffff);
+  align-items: flex-end;
+}
+
+.inputArea {
+  flex: 1;
+  border-radius: 8px;
+}

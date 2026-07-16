@@ -1,0 +1,133 @@
+:root {
+  /* === PRIMARY COLORS === */
+  --color-primary-50:  #eff6ff;
+  --color-primary-100: #dbeafe;
+  --color-primary-200: #bfdbfe;
+  --color-primary-300: #93c5fd;
+  --color-primary-400: #60a5fa;
+  --color-primary-500: #3b82f6;   /* Primary action */
+  --color-primary-600: #2563eb;   /* Primary hover */
+  --color-primary-700: #1d4ed8;   /* Primary active */
+  --color-primary-800: #1e40af;
+  --color-primary-900: #1e3a8a;
+
+  /* === ACCENT / SUCCESS === */
+  --color-success-50:  #f0fdf4;
+  --color-success-400: #4ade80;
+  --color-success-500: #22c55e;   /* SAFE status */
+  --color-success-600: #16a34a;
+
+  /* === WARNING === */
+  --color-warning-50:  #fffbeb;
+  --color-warning-400: #fbbf24;
+  --color-warning-500: #f59e0b;   /* WARNING status */
+  --color-warning-600: #d97706;
+
+  /* === DANGER === */
+  --color-danger-50:  #fef2f2;
+  --color-danger-400: #f87171;
+  --color-danger-500: #ef4444;    /* CRITICAL status */
+  --color-danger-600: #dc2626;
+
+  /* === NEUTRAL (cho text, borders, backgrounds) === */
+  --color-gray-50:  #f9fafb;
+  --color-gray-100: #f3f4f6;
+  --color-gray-200: #e5e7eb;
+  --color-gray-300: #d1d5db;
+  --color-gray-400: #9ca3af;
+  --color-gray-500: #6b7280;
+  --color-gray-600: #4b5563;
+  --color-gray-700: #374151;
+  --color-gray-800: #1f2937;
+  --color-gray-900: #111827;
+
+  /* === SEMANTIC COLORS === */
+  --color-bg-page:      #f0f2f5;       /* Nền trang chính */
+  --color-bg-card:      #ffffff;       /* Nền card/panel */
+  --color-bg-sidebar:   #1e293b;       /* Nền sidebar (dark) */
+  --color-text-primary: #111827;       /* Text chính */
+  --color-text-secondary: #6b7280;     /* Text phụ */
+  --color-text-inverse: #ffffff;       /* Text trên nền tối */
+  --color-border:       #e5e7eb;       /* Border mặc định */
+  --color-link:         #3b82f6;       /* Link text */
+
+  /* === CHART COLORS === */
+  --chart-color-1: #3b82f6;    /* Blue - Primary data */
+  --chart-color-2: #f97316;    /* Orange - Forecast/Secondary */
+  --chart-color-3: #22c55e;    /* Green - Positive */
+  --chart-color-4: #ef4444;    /* Red - Negative */
+  --chart-color-5: #8b5cf6;    /* Purple */
+  --chart-color-6: #06b6d4;    /* Cyan */
+  --chart-color-7: #f59e0b;    /* Amber */
+  --chart-color-8: #ec4899;    /* Pink */
+
+  /* === FONT FAMILY === */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+
+  /* === FONT SIZE === */
+  --text-xs:    0.75rem;    /* 12px */
+  --text-sm:    0.875rem;   /* 14px */
+  --text-base:  1rem;       /* 16px */
+  --text-lg:    1.125rem;   /* 18px */
+  --text-xl:    1.25rem;    /* 20px */
+  --text-2xl:   1.5rem;     /* 24px */
+  --text-3xl:   1.875rem;   /* 30px */
+  --text-4xl:   2.25rem;    /* 36px */
+
+  /* === FONT WEIGHT === */
+  --font-light:     300;
+  --font-normal:    400;
+  --font-medium:    500;
+  --font-semibold:  600;
+  --font-bold:      700;
+
+  /* === LINE HEIGHT === */
+  --leading-tight:  1.25;
+  --leading-normal: 1.5;
+  --leading-relaxed: 1.75;
+
+  /* === SPACING === */
+  --space-1:  0.25rem;   /* 4px */
+  --space-2:  0.5rem;    /* 8px */
+  --space-3:  0.75rem;   /* 12px */
+  --space-4:  1rem;      /* 16px */
+  --space-5:  1.25rem;   /* 20px */
+  --space-6:  1.5rem;    /* 24px */
+  --space-8:  2rem;      /* 32px */
+  --space-10: 2.5rem;    /* 40px */
+  --space-12: 3rem;      /* 48px */
+  --space-16: 4rem;      /* 64px */
+
+  /* === RADIUS === */
+  --radius-sm:   0.25rem;   /* 4px */
+  --radius-md:   0.5rem;    /* 8px */
+  --radius-lg:   0.75rem;   /* 12px */
+  --radius-xl:   1rem;      /* 16px */
+  --radius-full: 9999px;    /* Pill shape */
+
+  /* === SHADOWS === */
+  --shadow-sm:   0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-md:   0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+  --shadow-lg:   0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+  --shadow-xl:   0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+
+  /* === TRANSITIONS === */
+  --transition-fast:   150ms ease;
+  --transition-normal: 250ms ease;
+  --transition-slow:   350ms ease;
+
+  /* === MAIN LAYOUT DIMENSIONS === */
+  --sidebar-width:          250px;     /* Sidebar expanded */
+  --sidebar-collapsed-width: 70px;      /* Sidebar collapsed */
+  --header-height:          64px;      /* Top header */
+  --page-padding:           24px;      /* Content area padding */
+  --card-gap:               16px;      /* Khoảng cách giữa cards */
+
+  /* === BREAKPOINTS === */
+  --breakpoint-sm:  640px;     /* Mobile landscape */
+  --breakpoint-md:  768px;     /* Tablet */
+  --breakpoint-lg:  1024px;    /* Desktop nhỏ */
+  --breakpoint-xl:  1280px;    /* Desktop */
+  --breakpoint-2xl: 1536px;    /* Desktop lớn */
+}
