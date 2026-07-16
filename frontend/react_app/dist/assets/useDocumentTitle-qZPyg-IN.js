@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-QTnfLwEv.js";import{_n as t}from"./jsx-runtime-DE6UgS8U.js";var n=e(t(),1),r=(e,t=!1)=>{(0,n.useEffect)(()=>{let n=document.title;return document.title=`${e} | DSS Electronics`,()=>{t||(document.title=n)}},[e,t])};export{r as t};
