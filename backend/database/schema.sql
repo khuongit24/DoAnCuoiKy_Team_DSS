@@ -41,10 +41,7 @@ CREATE TABLE users (
 CREATE TABLE products (
     product_id      SERIAL PRIMARY KEY,
     product_name    VARCHAR(255) NOT NULL,
-    category        VARCHAR(50) NOT NULL CHECK (category IN (
-                        'CPU', 'GPU', 'RAM', 'Motherboard', 
-                        'Storage', 'PSU', 'Case', 'Cooling'
-                    )),
+    category        VARCHAR(50) NOT NULL,
     brand           VARCHAR(100) NOT NULL,
     lifecycle_stage VARCHAR(20) NOT NULL DEFAULT 'growth' CHECK (lifecycle_stage IN (
                         'introduction', 'growth', 'maturity', 'decline'
