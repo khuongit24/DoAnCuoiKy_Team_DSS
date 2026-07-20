@@ -33,7 +33,7 @@ class DataExtractor:
         try:
             logger.info(f"Extracting market data from API {api_url}")
             # Mock API call using requests
-            # return pd.read_json(api_url)
+            # return pd.read_csv(api_url)
             return pd.DataFrame() # Placeholder
         except Exception as e:
             logger.error(f"Error extracting market data: {str(e)}")

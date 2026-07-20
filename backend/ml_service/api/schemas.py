@@ -13,6 +13,7 @@ class ForecastResponse(BaseModel):
     total_predicted_demand: int
     metrics: dict
     generated_at: str
+    historical: Optional[List[dict]] = None
 
 class TrainRequest(BaseModel):
     model_type: str = "xgboost"

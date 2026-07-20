@@ -1,26 +1,20 @@
 import pandas as pd
 import numpy as np
-import xgboost as xgb
+from sklearn.ensemble import RandomForestRegressor
 import joblib
 import logging
 
 logger = logging.getLogger(__name__)
 
-xgb_params = {
-    'objective': 'reg:squarederror',
-    'n_estimators': 300,
-    'max_depth': 5,
-    'learning_rate': 0.08,
-    'subsample': 0.8,
-    'colsample_bytree': 0.8,
-    'min_child_weight': 3,
-    'reg_alpha': 0.1,       # L1 regularization
-    'reg_lambda': 1.0,      # L2 regularization
-    'early_stopping_rounds': 30,
+rf_params = {
+    'n_estimators': 200,
+    'max_depth': 10,
+    'min_samples_split': 5,
+    'min_samples_leaf': 2,
     'random_state': 42
 }
 
-class XGBoostForecaster:
+class RandomForestForecaster:
     def __init__(self):
         self.model = None
         # Must match Gold layer features
@@ -85,7 +79,7 @@ class XGBoostForecaster:
         Nếu val_data = None, tự động split 80/20 từ train_data.
         """
         try:
-            logger.info("Training XGBoost model...")
+            logger.info("Training Random Forest model...")
             # Handle missing columns safely
             actual_features = [col for col in self.feature_columns if col in train_data.columns]
             
@@ -103,12 +97,8 @@ class XGBoostForecaster:
             X_val = val_data[actual_features]
             y_val = val_data['quantity_sold']
             
-            self.model = xgb.XGBRegressor(**xgb_params)
-            self.model.fit(
-                X_train, y_train,
-                eval_set=[(X_val, y_val)],
-                verbose=False
-            )
+            self.model = RandomForestRegressor(**rf_params)
+            self.model.fit(X_train, y_train)
             logger.info(f"Training completed. Features used: {len(actual_features)}, "
                         f"Train samples: {len(X_train)}, Val samples: {len(X_val)}")
             
@@ -225,7 +215,7 @@ class XGBoostForecaster:
             return {}
         
         importance = self.model.feature_importances_
-        feature_names = self.model.get_booster().feature_names or self.feature_columns[:len(importance)]
+        feature_names = self.model.feature_names_in_ if hasattr(self.model, 'feature_names_in_') else self.feature_columns[:len(importance)]
         
         result = {}
         for name, imp in zip(feature_names, importance):

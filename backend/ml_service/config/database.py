@@ -22,14 +22,18 @@ def query_db(query: str, params: tuple = ()):
         conn = get_db_connection()
         with conn.cursor() as cur:
             cur.execute(query, params)
-            if query.strip().upper().startswith(("INSERT", "UPDATE", "DELETE")):
+            if query.strip().upper().startswith(("INSERT", "UPDATE", "DELETE", "TRUNCATE", "ALTER", "DROP", "CREATE")):
                 conn.commit()
                 # Try to fetch returning rows if any
                 try:
                     return cur.fetchall()
                 except Exception:
                     return []
-            return cur.fetchall()
+            
+            try:
+                return cur.fetchall()
+            except Exception:
+                return []
     except Exception as e:
         logger.error(f"Database query error: {e}")
         raise e
